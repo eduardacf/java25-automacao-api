@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Java
+*.class
+hs_err_pid*
+replay_pid*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos sensíveis
+.env
+.env.*
+!.env.exemplo
+*.pem
+*.key

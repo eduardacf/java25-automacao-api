@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ComposeErroneousRelation" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ComposeMissingKeys" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ComposeUnknownKeys" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ComposeUnknownValues" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ComposeUnquotedPorts" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="DockerFileAddOrCopyPaths" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DockerFileArgumentCount" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DockerFileAssignments" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DockerFileCopyHeredoc" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DockerFileDuplicatedStageName" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DockerFileEntrypointWithoutExec" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DockerFileHeredocDelimiters" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DockerFileRunCommandMissingContinuation" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DockerJsonFormStringLiterals" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GrpcSchemes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="KDocUnresolvedReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MysqlLoadDataPathInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MysqlParsingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MysqlSpaceAfterFunctionNameInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="OraMissingBodyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OraOverloadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OraUnmatchedForwardDeclarationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PbDuplicatedImports" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PgSelectFromProcedureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TomlUnresolvedReference" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
